@@ -4,7 +4,11 @@ these scans were done in a home lab environment.
 
 
 📌 SCAN 1: PORT SCANNING
+
 COMMAND USED: nmap<targetip>
+
 The objective of scan was to see if there were any ports open.
+
 RESULTS: There was one open port.
+
 port no 22 tcp (service:ssh)
