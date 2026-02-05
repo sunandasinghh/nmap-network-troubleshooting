@@ -1,4 +1,4 @@
-these scans were done in a home lab environment.
+these scans were performed in a home lab .
 
 ![img](https://github.com/sunandasinghh/nmap-network-troubleshooting/blob/d693fc9a6748f63d5041a6849adc1de009f3293c/add/basicscan.png)
 
